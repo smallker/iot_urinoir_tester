@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "936148101767",
+    "firebase_url": "https://urinoir-test.firebaseio.com",
+    "project_id": "urinoir-test",
+    "storage_bucket": "urinoir-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936148101767:android:89660bcc88594d8c12a622",
+        "android_client_info": {
+          "package_name": "com.smallker.urinoirtester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936148101767-9ajqtcblhibrc8hq11a3baqritn46ql7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC81HZ5T0YefXH8mmcsBMG4qgj48d-L7LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936148101767-9ajqtcblhibrc8hq11a3baqritn46ql7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
